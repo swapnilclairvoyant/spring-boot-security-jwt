@@ -1,2 +1,3 @@
-# spring-boot-security-jwt
-Securing all endpoints with JWT token
+# Demo1
+
+This application is having basic set up for sprint boot + Spring data jpa.
